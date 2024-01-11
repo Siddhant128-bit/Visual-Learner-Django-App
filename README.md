@@ -1,5 +1,5 @@
-<h1> Visual Learner </h1>
-##
+<h1 align='center'> Visual Learner </h1>
+
 <h3> Introduction </h3>
 <p> This is an end to end app built with django integrating Computer Vision Model that can be used for learning django as well as how to integrate AI on webapp </p>
 
